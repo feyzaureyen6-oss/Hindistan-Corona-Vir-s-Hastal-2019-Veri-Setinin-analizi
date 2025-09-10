@@ -40,7 +40,7 @@ Bu proje, Hindistan COVID-19 vaka verileri üzerinde veri ön işleme, analiz ve
 
  En iyi performansı Decision Tree ve Random Forest modelleri göstermiştir.
 
-## 📈 Görselleştirmeler
+## Görselleştirmeler
 
 - Karar ağacı diyagramı
 - Karışıklık matrisleri (confusion matrix)
